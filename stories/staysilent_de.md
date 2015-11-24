@@ -6,7 +6,7 @@ Ein junger und ein alter Soldat, welche sich unauffällig ebenfalls in die dunkl
 
 Was machst du ?
 
-====================
+---
 
   * [setze Geld darauf dass die Tagediebe gewinnen](bet_on_thougs_de.md)
   * [setze Geld darauf dass der Bettelmönch gewinnt](bet_on_monk_de.md)
