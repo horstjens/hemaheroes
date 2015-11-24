@@ -4,7 +4,7 @@ Der Bettelmönch wischt sich Speisereste vom Gesicht und von seiner Kutte. Er sc
 
 Was machst Du ?
 
-===============================
+---
 
   * [weglaufen]
   * [halte Distanz]
