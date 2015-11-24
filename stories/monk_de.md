@@ -4,7 +4,7 @@ Du fragst den Mönch höflich ob an seinem Tisch noch ein Platz frei ist. Er ant
 
 Was willst du tun?
 
-==================
+---
 
   * [Erkläre dem Mönch dass es bald Ärger gibt und er verschwinden soll]
   * [Erkläre dem Mönch dass er sich bereit machen soll für einen Kampf]
