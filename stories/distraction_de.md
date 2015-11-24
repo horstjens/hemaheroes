@@ -2,7 +2,7 @@ Du nimmst eines der Musikinstrumente welche die Musiker weggeräumt haben, hüpf
 
 Der Bettelmönch nutzt die Gelegenheit um unbemerkt zu verschwinden.
 
-======================
+---
 
 karma +1
 Ansehen bei Mönchen +1
