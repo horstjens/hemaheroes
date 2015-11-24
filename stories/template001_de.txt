@@ -1,14 +1,14 @@
 Situations-BeschreibungsText auf deutsch
 
 Was machst du?
-=============
+---
 
   * [Möglichkeit A als text beschrieben](englischfilenameA_de.md) # sonstige Anmerkung
   * [Möglichkeit B als text beschrieben](englischfilenameB_de.md)
   * [Möglichkeit C als text beschrieben](englischfilenameC_de.md)
   
   
-------------
+---
 
 sonstige Anmerkungen 
 
