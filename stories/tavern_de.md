@@ -2,7 +2,7 @@ Du betrittst eine Spelunke im Hafenviertel der Stadt. Während du mit dem Wirt �
 
 Wie reagierst du?
 
-=============
+---
 
   * [Unauffällig zurückziehen und ein anderes Quartier suchen](leavepub_de.md)
   * [Im Lokal bleiben aber jedem Ärger ausweichen. Du hast genug eigene Probleme](staysilent_de.md)
